@@ -1,0 +1,4 @@
+TestForJni
+==========
+
+For jni
